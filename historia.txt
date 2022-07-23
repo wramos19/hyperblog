@@ -1,0 +1,4 @@
+historia.txt
+la historia de fredy tiene 32 años y nacio en colombia
+
+esta es su historia de vida
