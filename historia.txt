@@ -1,5 +1,4 @@
 historia.txt
-la historia de fredy tiene 37 años y nacio en colombia,
-y rueda por todas partes
+la historia de fredy tiene 32 años y nacio en colombia
 
-esta es su historia de vida en colombia y su obra maestra
+se cambia todo el cuento
