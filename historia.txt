@@ -2,4 +2,4 @@ historia.txt
 la historia de fredy tiene 37 años y nacio en colombia,
 y rueda por todas partes
 
-esta es su historia de vida
+esta es su historia de vida en colombia
